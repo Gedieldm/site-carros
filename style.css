@@ -133,7 +133,7 @@ section {
     .setas {
         width: 70vw;
         position: absolute;
-        top: 44%;
+        top: 44.5%;
         left: 50%;
         transform: translate(-50%, 25px);
         display: flex;
